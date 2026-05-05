@@ -106,7 +106,12 @@
 // }
 // console.log(mergeArr);
 
-// 
+// Another Method
+// const arrOne = [1, 2, 3, 4, 5]
+// const arrTwo = [6, 7, 8, 9, 10]
+// const mergeArr = arrOne.concat(arrTwo)
+// console.log(mergeArr);
+
 
 // Question 5
 // let sentence = "Hello World".split(" ").reverse("").join(" ")
